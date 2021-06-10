@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/markup-viewer-fcc/static/css/main.fca7068d.chunk.css",
+    "main.js": "/markup-viewer-fcc/static/js/main.e83f9746.chunk.js",
+    "main.js.map": "/markup-viewer-fcc/static/js/main.e83f9746.chunk.js.map",
+    "runtime-main.js": "/markup-viewer-fcc/static/js/runtime-main.d2419ceb.js",
+    "runtime-main.js.map": "/markup-viewer-fcc/static/js/runtime-main.d2419ceb.js.map",
+    "static/js/2.6db801e4.chunk.js": "/markup-viewer-fcc/static/js/2.6db801e4.chunk.js",
+    "static/js/2.6db801e4.chunk.js.map": "/markup-viewer-fcc/static/js/2.6db801e4.chunk.js.map",
+    "static/js/3.f12cd2de.chunk.js": "/markup-viewer-fcc/static/js/3.f12cd2de.chunk.js",
+    "static/js/3.f12cd2de.chunk.js.map": "/markup-viewer-fcc/static/js/3.f12cd2de.chunk.js.map",
+    "index.html": "/markup-viewer-fcc/index.html",
+    "static/css/main.fca7068d.chunk.css.map": "/markup-viewer-fcc/static/css/main.fca7068d.chunk.css.map",
+    "static/js/2.6db801e4.chunk.js.LICENSE.txt": "/markup-viewer-fcc/static/js/2.6db801e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2419ceb.js",
+    "static/js/2.6db801e4.chunk.js",
+    "static/css/main.fca7068d.chunk.css",
+    "static/js/main.e83f9746.chunk.js"
+  ]
+}
