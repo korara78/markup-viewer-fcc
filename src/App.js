@@ -1,9 +1,6 @@
 import './App.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-
-
 let marked = require("marked");
 
 //let marked = require("marked"); //Used code 'npm install marked --save'
@@ -72,7 +69,7 @@ marked.setOptions({
     }
   
     render() {
-  
+      //Inline styling for the input and output of Markdown Previewer//
       var inputStyle = {
         width: "400px",
         height: "150vh",
@@ -90,9 +87,8 @@ marked.setOptions({
       };
   
       return (
+       //Bootstrap library applied towards styling of aliging text, badge lebels, row margin// 
         <div className="App">
-  
-  
           <div className="container">
             <div className="row mt-4">
               <div className="col text-center">
