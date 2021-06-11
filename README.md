@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Markdown Previewer 
+
+## Overview
+
+An app which will contain a textarea for Markdown input and a preview tab where the converted text will appear as HTML.
+
+Based on Stateful app components, inline styling applied in App.js code, and Bootstrap library to apply styling towards aligning text, badges for labling headers, and row margin.
+
+Marked.js for for low-level markdown compiler for parsing markdown without caching or blocking for long periods of time. This will run the actual logic behind converting the markdown.
+
+Based on the Freecodecamp.org projects towards the Front End Development Libraries Certification. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
