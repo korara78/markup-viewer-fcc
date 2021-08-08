@@ -4,9 +4,9 @@
 
 An app which will contain a textarea for Markdown input and a preview tab where the converted text will appear as HTML.
 
-Based on Stateful app components, inline styling applied in App.js code, and Bootstrap library to apply styling towards aligning text, badges for labling headers, and row margin.
+Based on a stateful class component, inline styling applied in App.js code, and Bootstrap library to apply styling towards aligning text, badges for labling headers, and row margin.
 
-Marked.js for for low-level markdown compiler for parsing markdown without caching or blocking for long periods of time. This will run the actual logic behind converting the markdown.
+Marked.js for low-level markdown compiler for parsing markdown without caching or blocking for long periods of time. This will run the actual logic behind converting the markdown.
 
 Based on the Freecodecamp.org projects towards the Front End Development Libraries Certification. 
 
