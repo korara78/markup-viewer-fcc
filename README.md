@@ -2,7 +2,7 @@
 
 ## Overview
 
-An app which will contain a textarea for Markdown input and a preview tab where the converted text will appear as HTML.
+An app which will contain a textarea for GitHub flavored Markdown input and a preview tab where the converted text will appear as HTML.
 
 Based on a stateful class component, inline styling applied in App.js code, and Bootstrap library to apply styling towards aligning text, badges for labling headers, and row margin.
 
