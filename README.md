@@ -10,6 +10,8 @@ Marked.js for low-level markdown compiler for parsing markdown without caching o
 
 Based on the Freecodecamp.org projects towards the Front End Development Libraries Certification. 
 
+This app is published on https://korara78.github.io/markup-viewer-fcc/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
